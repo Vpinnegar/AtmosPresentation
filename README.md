@@ -1,7 +1,7 @@
 # Atmosphere's Presentation 1
 Contained within this repository is a series of files related to a presentation of Condensation to Rain for Clouds. 
 # Files:
-1. PowerPoint Presentaiton .pptx
+1. PowerPoint Presentation .pptx
 2. PowerPoint Presentation .pdf
 3. README .pdf
 4. References .pdf
