@@ -21,4 +21,4 @@ This is a file of references contained in APA standard.
 
 # File 5: 
 
-This reflections file has the overview of the presenations in this series. 
+This reflections file has the overview of the presentations in this series. 
