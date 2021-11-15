@@ -14,7 +14,7 @@ This powerpoint contains the claudius Clapeyron equation, kelvin effect, Raoult'
 For easy viewing, the presentation is in .pdf format.
 
 # File 3: 
-This file contains th derivations for both the Claudius Clapeyron equation for Saturation pressure and the subsequent application of the kelvin effect onto the relationship for a droplet. 
+This file contains the derivations for both the Claudius Clapeyron equation for Saturation pressure and the subsequent application of the kelvin effect onto the relationship for a droplet. 
 
 # File 4:
 This is a file of references contained in APA standard. 
